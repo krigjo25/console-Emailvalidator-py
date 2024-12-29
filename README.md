@@ -1,4 +1,4 @@
-# E-mail validater
+# E-mail validator
 An application that validate emails using validator library
 
 The application was implemented as a CS50P assignment.<br>
